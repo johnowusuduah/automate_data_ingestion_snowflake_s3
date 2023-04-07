@@ -1,0 +1,1 @@
+# automate_data_ingestion_snowflake_s3
