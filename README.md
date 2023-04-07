@@ -1,1 +1,3 @@
-# automate_data_ingestion_snowflake_s3
+# AUTOMATE DATA LOADING FROM AWS S3 (DATA LAKE) TO SNOWFLAKE WITH SNOWPIPE - AN IMPROVEMENT TO SNOWFLAKE'S DOCUMENTATION
+
+## Example Data Sourced from Politics Subreddit 
